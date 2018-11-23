@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "더 언더독(데모)"
+title: "언더독(데모)"
 date: 2018-11-23
 categories:
   - game
