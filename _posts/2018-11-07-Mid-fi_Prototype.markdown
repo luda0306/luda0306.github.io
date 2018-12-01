@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assignment8"
+title: "Mid-fi_Prototype"
 date: 2018-11-07
 categories:
   - designthinking
