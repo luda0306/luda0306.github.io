@@ -5,10 +5,10 @@ date: 2018-12-05
 categories:
   - designthinking
 description:
-image:
+image: "/icon.png"
 image-sm:
 ---
-<img src="/logo2.png" alt="과제학살자 "> <br> <br>
+<img src="/icon.png" alt="과제학살자 "> <br> <br>
 
 디자인적사고 "과제학살자"프로젝트를 진행하고 있는 자강세천팀입니다. <br>
 저희 팀은 경희대학교 소프트웨어융합학과 18학번 강수한, 강태호, 문석호로 이루어져 있습니다. <br>
