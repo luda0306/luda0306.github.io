@@ -6,8 +6,9 @@ paginate_path: "/blog/page-:num"
 google_analytics: UA-121890621-1
 
 # SEO settings
-title: LUDA!
-description:
+title: TaskKiller
+description: 대학생의 삶은 우리 어플의 출시 전, 후로 나뉩니다.
+
 url: ""
 twitter_username: kthstupid
 default_img:
