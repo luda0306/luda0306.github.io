@@ -15,6 +15,10 @@ image-sm:
 아래에 있는 것들은 저희가 이제까지 디자인해온 과정입니다. <br> <br>
 
 <h3> 1. 필요 발견하기(Need Finding) </h3> <br>
+<a href="/3.Needs_pdf.pdf"> Need Finding PDF Download </a> <br>
+<a href="/3.Needs_ppt.pptx"> Need Finding PPT Download </a> <br>
+<br>
+<h3> 2. 아이디어 도출하기(POVs & Experience Prototypes) </h3> <br>
 
 
 
