@@ -37,7 +37,7 @@ image-sm:
 <a href="https://marvelapp.com/a603bfa">Try Our Prototype! </a>
 <br>
 <h3> 6. 그룹 휴리스틱 평가(Heuristic Evaluation) </h3> <br>
-<a href="/">Heuristic Evaluation PDF Download </a> <br>
+<a href="/11.Heuristic Evaluation.zip">Heuristic Evaluation PDF Download </a> <br>
 <br>
 <h3> 7. Hi-fi 프로토타입(Hi-Fi Prototype) </h3> <br>
 아직 진행하지 않았습니다.
