@@ -27,7 +27,7 @@ image-sm:
 인터뷰 결과, 과제를 할 때 어려움을 겪은 적이 있고, 혼자 수업을 듣는 경우에는 부득이하게 수업에 가지 못했을 때 과제가 무엇인지 몰라 못한 경험이 있다고 답했습니다. <br>
 그리고  알리미 앱을 만드는 것이 어려움을 있을 것 같지만(경희대 api 제공x) 불가능 하지 않다는 답도 받았습니다. <br>
 <a href="/3.Needs_pdf.pdf" style="color:blue"> Need Finding PDF Download </a> <br>
-<a href="/3.Needs_ppt.pptx"> Need Finding PPT Download </a> <br> <br>
+<a href="/3.Needs_ppt.pptx" style="color:blue"> Need Finding PPT Download </a> <br> <br>
 
 <h3> 2. 아이디어 도출하기(Ideate) </h3> <br>
 저희는 이전에 인터뷰한 학생들 외에 다른 대학생들에게 추가 인터뷰를 진행하였습니다. <br>
@@ -36,13 +36,13 @@ image-sm:
 	1. 과제를 물어볼 때 학생들이 어색함을 느낄 수 있으므로 온라인, 익명성으로 방향을 잡는 것이 좋을 것 같다. <br>
 	2. 과제를 잊어버리거나 과제를 못들었을 때 곤란함 등 대학생활에서 과제를 하면서 느낀점을 비슷하게 느끼고 있다는 점을 알게 되었다. <br>
 그리고 저희는 경험 프로토타입 3개를 만들어 테스트해본 결과, '못 듣거나 까먹는 과제를 해결하고 싶다'는 문제에 가장 적합하다고 생각한 3번 프로토타입을 가장 좋다고 생각했습니다. <br>
-<a href="/4.ideate.pdf.pdf"> Ideate PDF Download </a> <br>
-<a href="/4.Ideate.ppt.pptx"> Ideate PPT Download </a> <br> <br>
+<a href="/4.ideate.pdf.pdf" style="color:blue"> Ideate PDF Download </a> <br>
+<a href="/4.Ideate.ppt.pptx" style="color:blue"> Ideate PPT Download </a> <br> <br>
 
 <h3> 3. 컨셉비디오(Concept Video) </h3> <br>
 저희는 저희가 앞으로 만들 어플인 "과제학살자"를 어떻게 이용하는지에 관한 컨셉비디오를 만들었습니다. <br>
-<a href="/5.ConceptVideo.pdf.pdf"> Concept Video PDF Download </a> <br>
-<a href="/5.ConceptVideo.ppt.pptx"> Concept Video PPT Download </a> <br>
+<a href="/5.ConceptVideo.pdf.pdf" style="color:blue"> Concept Video PDF Download </a> <br>
+<a href="/5.ConceptVideo.ppt.pptx" style="color:blue"> Concept Video PPT Download </a> <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zLm8xIXjJzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3> 4. Low-fi 프로토타입 & 테스트(Low-Fi Prototype) </h3> <br>
@@ -55,9 +55,9 @@ Low-fi 프로토타입을 종이로 만들어 지인 3명에게 대본을 설명
 그리고 테스트가 끝났을 때, 참가자에게 피드백을 받았습니다. <br>
 테스트 결과, 과제를 잊어버렸을 때 효과적으로 과제를 떠올릴 수 있었지만, 어플의 디자인적인 면에서 많은 문제점이 있었습니다. <br>
 이와 같은 많은 문제점들을 해결하면서 어플의 디자인을 향상시킬 수 있었습니다. <br>
-<a href="/6.Low-fi_Prototype.pdf.pdf">Low-fi Prototype PDF Download </a> <br>
-<a href="/6.Low-fi_Prototype.ppt.pptx">Low-fi Prototype PPT Download </a> <br>
-<a href="/Low-fi_prototype.bmpr">Try Our Prototype!  </a> <br> <br>
+<a href="/6.Low-fi_Prototype.pdf.pdf" style="color:blue">Low-fi Prototype PDF Download </a> <br>
+<a href="/6.Low-fi_Prototype.ppt.pptx" style="color:blue">Low-fi Prototype PPT Download </a> <br>
+<a href="/Low-fi_prototype.bmpr" style="color:blue">Try Our Prototype!  </a> <br> <br>
 
 <h3> 5. Medium-fi 프로토타입(Medium-Fi Prototype) </h3> <br>
 저희는 Medium-fi 프로토타입을 Marvel을 이용하여 만들었습니다. <br>
@@ -65,14 +65,14 @@ Marvel을 이용하여 어플에 대해 파악하기 더 쉬워졌고, 어플의
 저희는 프로토타입을 만들 때 Wizard-of-Oz 기술을 사용하지 않고 프로토타입에 하드 코드된 내용을 넣었습니다. <br>
 이번 프로토타입은 "과제 내용 참조"에 기능을 맞췄기 때문에 시간표 내용, 과제 내용, 알람 설정 기능에 저희가 생성한 정보를 넣었습니다. <br>
 또한 사용자는 직접 과제를 추가하지 못합니다.(알람 설정은 가능합니다.) <br>
-<a href="/midfi_ppt.pptx">Medium-fi Prototype PPT Download </a> <br>
-<a href="/midfi_readme.pdf">Medium-fi Prototype README Download </a> <br>
-<a href="https://marvelapp.com/a603bfa">Try Our Prototype! </a> <br> <br>
+<a href="/midfi_ppt.pptx" style="color:blue">Medium-fi Prototype PPT Download </a> <br>
+<a href="/midfi_readme.pdf" style="color:blue">Medium-fi Prototype README Download </a> <br>
+<a href="https://marvelapp.com/a603bfa" style="color:blue">Try Our Prototype! </a> <br> <br>
 
 <h3> 6. 그룹 휴리스틱 평가(Heuristic Evaluation) </h3> <br>
 저희는 같은 수업을 듣는 다른 팀과 서로의 프로젝트에 대해 평가를 했습니다. (Jakob Nielsen의 휴리스틱 평가  이용) <br>
 그리고 여기에서 얻은 평가는 이후에 만들 Hi-fi 프로토타입에 반영될 것입니다. <br>
-<a href="/11.Heuristic Evaluation.zip">Heuristic Evaluation PDF Download </a> <br> <br>
+<a href="/11.Heuristic Evaluation.zip" style="color:blue">Heuristic Evaluation PDF Download </a> <br> <br>
 
 <h3> 7. Hi-fi 프로토타입(Hi-Fi Prototype) </h3> <br>
 아직 진행하지 않았습니다. <br> <br>
