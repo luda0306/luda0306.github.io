@@ -32,6 +32,9 @@ image-sm:
 <a href="/Low-fi_prototype.bmpr">Try Our Prototype!  </a>
 <br>
 <h3> 5. Medium-fi 프로토타입(Medium-Fi Prototype) </h3> <br>
+<a href="/midfi_ppt.pptx">Medium-fi Prototype PPT Download </a> <br>
+<a href="/midfi_readme.pdf">Medium-fi Prototype README Download </a> <br>
+<a href="https://marvelapp.com/a603bfa">Try Our Prototype! </a>
 <br>
 <h3> 6. 그룹 휴리스틱 평가(Heuristic Evaluation) </h3> <br>
 <a href="/">Heuristic Evaluation PDF Download </a> <br>
