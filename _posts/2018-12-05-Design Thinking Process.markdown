@@ -18,12 +18,30 @@ image-sm:
 <a href="/3.Needs_pdf.pdf"> Need Finding PDF Download </a> <br>
 <a href="/3.Needs_ppt.pptx"> Need Finding PPT Download </a> <br>
 <br>
-<h3> 2. 아이디어 도출하기(POVs & Experience Prototypes) </h3> <br>
-
-
-
-
-<a href="/6.Low-fi_Prototype.ppt.pptx">Low-fi Prototype PPT LINK </a> <br>
-<a href="/6.Low-fi_Prototype.pdf.pdf">Low-fi Prototype PDF </a> <br>
+<h3> 2. 아이디어 도출하기(Ideate) </h3> <br>
+<a href="/4.ideate.pdf.pdf"> Ideate PDF Download </a> <br>
+<a href="/4.Ideate.ppt.pptx"> Ideate PPT Download </a> <br>
+<br>
+<h3> 3. 컨셉비디오(Concept Video) </h3> <br>
+<a href="/5.ConceptVideo.pdf.pdf"> Concept Video PDF Download </a> <br>
+<a href="/5.ConceptVideo.ppt.pptx"> Concept Video PPT Download </a> <br>
+<br>
+<h3> 4. Low-fi 프로토타입 & 테스트(Low-Fi Prototype) </h3> <br>
+<a href="/6.Low-fi_Prototype.pdf.pdf">Low-fi Prototype PDF Download </a> <br>
+<a href="/6.Low-fi_Prototype.ppt.pptx">Low-fi Prototype PPT Download </a> <br>
 <a href="/Low-fi_prototype.bmpr">Try Our Prototype!  </a>
+<br>
+<h3> 5. Medium-fi 프로토타입(Medium-Fi Prototype) </h3> <br>
+<br>
+<h3> 6. 그룹 휴리스틱 평가(Heuristic Evaluation) </h3> <br>
+<a href="/">Heuristic Evaluation PDF Download </a> <br>
+<br>
+<h3> 7. Hi-fi 프로토타입(Hi-Fi Prototype) </h3> <br>
+아직 진행하지 않았습니다.
+<br>
+<h3> 8. 포스터 & 최종 발표자료(Poster & Pitch) </h3> <br>
+아직 진행하지 않았습니다.
+
+
+
 
