@@ -40,21 +40,38 @@ image-sm:
 <a href="/4.Ideate.ppt.pptx"> Ideate PPT Download </a> <br> <br>
 
 <h3> 3. 컨셉비디오(Concept Video) </h3> <br>
+저희는 저희가 앞으로 만들 어플인 "과제학살자"를 어떻게 이용하는지에 관한 컨셉비디오를 만들었습니다. <br>
 <a href="/5.ConceptVideo.pdf.pdf"> Concept Video PDF Download </a> <br>
 <a href="/5.ConceptVideo.ppt.pptx"> Concept Video PPT Download </a> <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zLm8xIXjJzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3> 4. Low-fi 프로토타입 & 테스트(Low-Fi Prototype) </h3> <br>
+Low-fi 프로토타입을 종이로 만들어 지인 3명에게 대본을 설명하고 테스트를 해보았습니다. <br>
+이때, 설정한 Task는 다음과 같습니다. <br>
+	1. 과제를 잊어버려 못하는 상황에서 알람기능을 통해 과제 떠올리기 <br>
+	2. 과제를 어떻게 해야할 지 모르겠을 때 과제 참고 <br>
+	3. 수업을 못 갔을 때 과제를 알아내고 과제 내기 <br>
+테스트를 할 때, 3개의 Task를 만들어 참가자가 Task를 잘 해결할 수 있는지 관찰했습니다. <br>
+그리고 테스트가 끝났을 때, 참가자에게 피드백을 받았습니다. <br>
+테스트 결과, 과제를 잊어버렸을 때 효과적으로 과제를 떠올릴 수 있었지만, 어플의 디자인적인 면에서 많은 문제점이 있었습니다. <br>
+이와 같은 많은 문제점들을 해결하면서 어플의 디자인을 향상시킬 수 있었습니다. <br>
 <a href="/6.Low-fi_Prototype.pdf.pdf">Low-fi Prototype PDF Download </a> <br>
 <a href="/6.Low-fi_Prototype.ppt.pptx">Low-fi Prototype PPT Download </a> <br>
 <a href="/Low-fi_prototype.bmpr">Try Our Prototype!  </a> <br> <br>
 
 <h3> 5. Medium-fi 프로토타입(Medium-Fi Prototype) </h3> <br>
+저희는 Medium-fi 프로토타입을 Marvel을 이용하여 만들었습니다. <br>
+Marvel을 이용하여 어플에 대해 파악하기 더 쉬워졌고, 어플의 디자인도 더 좋게 만들 수 있었습니다. <br>
+저희는 프로토타입을 만들 때 Wizard-of-Oz 기술을 사용하지 않고 프로토타입에 하드 코드된 내용을 넣었습니다. <br>
+이번 프로토타입은 "과제 내용 참조"에 기능을 맞췄기 때문에 시간표 내용, 과제 내용, 알람 설정 기능에 저희가 생성한 정보를 넣었습니다. <br>
+또한 사용자는 직접 과제를 추가하지 못합니다.(알람 설정은 가능합니다.) <br>
 <a href="/midfi_ppt.pptx">Medium-fi Prototype PPT Download </a> <br>
 <a href="/midfi_readme.pdf">Medium-fi Prototype README Download </a> <br>
 <a href="https://marvelapp.com/a603bfa">Try Our Prototype! </a> <br> <br>
 
 <h3> 6. 그룹 휴리스틱 평가(Heuristic Evaluation) </h3> <br>
+저희는 같은 수업을 듣는 다른 팀과 서로의 프로젝트에 대해 평가를 했습니다. (Jakob Nielsen의 휴리스틱 평가 이용) <br>
+그리고 여기에서 얻은 평가는 이후에 만들 Hi-fi 프로토타입에 반영될 것입니다. <br>
 <a href="/11.Heuristic Evaluation.zip">Heuristic Evaluation PDF Download </a> <br> <br>
 
 <h3> 7. Hi-fi 프로토타입(Hi-Fi Prototype) </h3> <br>
