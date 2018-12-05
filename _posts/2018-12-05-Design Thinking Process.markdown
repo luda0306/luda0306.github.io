@@ -70,7 +70,7 @@ Marvel을 이용하여 어플에 대해 파악하기 더 쉬워졌고, 어플의
 <a href="https://marvelapp.com/a603bfa">Try Our Prototype! </a> <br> <br>
 
 <h3> 6. 그룹 휴리스틱 평가(Heuristic Evaluation) </h3> <br>
-저희는 같은 수업을 듣는 다른 팀과 서로의 프로젝트에 대해 평가를 했습니다. (Jakob Nielsen의 휴리스틱 평가 이용) <br>
+저희는 같은 수업을 듣는 다른 팀과 서로의 프로젝트에 대해 평가를 했습니다. (Jakob Nielsen의 휴리스틱 평가  이용) <br>
 그리고 여기에서 얻은 평가는 이후에 만들 Hi-fi 프로토타입에 반영될 것입니다. <br>
 <a href="/11.Heuristic Evaluation.zip">Heuristic Evaluation PDF Download </a> <br> <br>
 
