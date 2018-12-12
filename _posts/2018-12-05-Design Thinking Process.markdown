@@ -80,7 +80,8 @@ Marvel을 이용하여 어플에 대해 파악하기 더 쉬워졌고, 어플의
 아직 진행하지 않았습니다. <br> <br>
 
 <h3> 8. 포스터 & 최종 발표자료(Poster & Pitch) </h3> <br>
-아직 진행하지 않았습니다.
+<a href="/12.POSTER.pdf" style="color:blue">POSTER Download </a> <br>
+<a href="/12.SLIDE.pdf" style="color:blue">SLIDE Download </a> <br>
 
 
 
