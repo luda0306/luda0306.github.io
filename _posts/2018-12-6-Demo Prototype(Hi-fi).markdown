@@ -5,7 +5,7 @@ date: 2018-12-06
 categories:
   - designthinking
 description:
-image: "/icon.png"
+image: "/icon.jpg"
 image-sm:
 ---
 
