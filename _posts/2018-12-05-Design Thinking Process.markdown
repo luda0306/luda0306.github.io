@@ -5,7 +5,7 @@ date: 2018-12-05
 categories:
   - designthinking
 description:
-image: "/icon.png"
+image: "/icon.jpg"
 image-sm:
 ---
 <img src="/icon.png" alt="과제학살자 "> <br> <br>
