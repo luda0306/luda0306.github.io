@@ -79,17 +79,16 @@ Marvel을 이용하여 어플에 대해 파악하기 더 쉬워졌고, 어플의
 <h3> 7. Hi-fi 프로토타입(Hi-Fi Prototype) </h3> <br>
 휴리스틱 평가를 통해, 게시판 형식의 어플은 "과제 공유"를 하기에 어려움이 많다고 판단하였습니다. 그리고 포인트 제도 또한 
 학습이라는 목적에 금전적인 사항이 들어간다면, 무조건적으로 결제만 하는 사람이 있을 수도 있어 과제 공유라는 어플의 본질을 흐릴 수 있을 것 같았습니다.
-따라서 포인트 제도를 없애고 채팅 어플 형식을 채택하기로 결심했습니다.<br>
+따라서 포인트 제도를 없애고 채팅 어플 형식을 채택하기로 결심했습니다.
 <a href="/app-debug.zip" style="color:blue">Hi-fi Prototype APP DOWNLOAD </a> <br> <br>
 <a href="/README_TASKHUNTER.pdf" style="color:blue">Hi-fi Prototype READ ME </a> <br> <br>
 <br> <br>
 
 <h3> 8. 포스터 & 최종 발표자료(Poster & Pitch) </h3> <br>
-<p> 저희는 프로토타입을 쉽게 알리기 위한 슬라이드와 포스터를 제작했습니다.포스터 및 슬라이드에서 가장 중요하게 생각한 점은, 저희 로고 그라데이션 색깔과의 매치와 채팅 어플이라는 것을 한 눈에 보여주기 위한 디자인이었습니다. 그래서 채팅 로고와 똑같은 그라데이션을 포스터에 적용했고, 채팅 컨셉의 포스터 및 슬라이드를 제작했습니다 </p><br>
+<p> 저희는 프로토타입을 쉽게 알리기 위한 슬라이드와 포스터를 제작했습니다.포스터 및 슬라이드에서 가장 중요하게 생각한 점은, 저희 로고 그라데이션 색깔과의 매치와 채팅 어플이라는 것을 한 눈에 보여주기 위한 디자인이었습니다. 그래서 채팅 로고와 똑같은 그라데이션을 포스터에 적용했고, 채팅 컨셉의 포스터 및 슬라이드를 제작했습니다 </p>
 <a href="/12.POSTER.pdf" style="color:blue">POSTER Download </a> <br>
 <a href="/12.SLIDE.pdf" style="color:blue">SLIDE Download </a> <br>
-<p> 발표 피드백을 바탕으로 포스터와 슬라이드를 수정했습니다</p>
-<p> 바뀐 사항은 포스터에서 디자인적 사고과정을 한눈에 알아볼 수 없다는 피드백을 통해 순서를 부여해서 보기 쉽게 했습니다. </p>
+<p> 발표 피드백을 바탕으로 포스터와 슬라이드를 수정했습니다. 바뀐 사항은 포스터에서 디자인적 사고과정을 한눈에 알아볼 수 없다는 피드백을 통해 순서를 부여해서 보기 쉽게 했습니다. </p>
 <a href="/V2_POSTER-자강세천-TASKHUNTER.pdf" style="color:blue">POSTER Download </a> <br>
 <a href="/V2_SLIDE-자강세천-TASKHUNTER.pdf" style="color:blue">SLIDE Download </a> <br>
 
