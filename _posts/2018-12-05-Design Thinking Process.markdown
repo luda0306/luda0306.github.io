@@ -79,7 +79,7 @@ Marvel을 이용하여 어플에 대해 파악하기 더 쉬워졌고, 어플의
 <h3> 7. Hi-fi 프로토타입(Hi-Fi Prototype) </h3> <br>
 휴리스틱 평가를 통해, 게시판 형식의 어플은 "과제 공유"를 하기에 어려움이 많다고 판단하였습니다. 그리고 포인트 제도 또한 
 학습이라는 목적에 금전적인 사항이 들어간다면, 무조건적으로 결제만 하는 사람이 있을 수도 있어 과제 공유라는 어플의 본질을 흐릴 수 있을 것 같았습니다.
-따라서 포인트 제도를 없애고 채팅 어플 형식을 채택하기로 결심했습니다.
+따라서 포인트 제도를 없애고 채팅 어플 형식을 채택하기로 결심했습니다. <br>
 <a href="/app-debug.zip" style="color:blue">Hi-fi Prototype APP DOWNLOAD </a> <br>
 <a href="/README_TASKHUNTER.pdf" style="color:blue">Hi-fi Prototype READ ME </a> <br> <br>
 <br>
