@@ -92,6 +92,9 @@ Marvel을 이용하여 어플에 대해 파악하기 더 쉬워졌고, 어플의
 <a href="/V2_POSTER-자강세천-TASKHUNTER.pdf" style="color:blue">POSTER Download </a> <br>
 <a href="/V2_SLIDE-자강세천-TASKHUNTER.pdf" style="color:blue">SLIDE Download </a> <br>
 
+<h3> 9. 최종보고서 </h3>
+지금까지의 디자인적 사고를 정리한 최종 보고서를 작성했습니다. <
+<a href="/final_report.pdf" style="color:blue">최종 보고서 다운로드 </a> <br>
 
 
 
